@@ -14,4 +14,5 @@ Task 12. A script that prints all possible combinations of two letters, except '
 Task 13. A script that prints a number with two decimal places, followed by a new line. The number will be stored in the environment variable 'NUM' 
 Task 14. A script that converts a number from base 10 to base 16.(Number in base 10 stored in env VAR 'DECIMAL'; script to display number in base 16, followed by a new line) 
 Task 15. A script that encodes and decodes text using the rot13 encryption. (Assume ASCII)
-Task 16. A 
+Task 16. A script that prints every other line from the input, starting with the first line 
+Task 17.  
