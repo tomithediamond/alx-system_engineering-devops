@@ -15,4 +15,4 @@ Task 13. A script that prints a number with two decimal places, followed by a ne
 Task 14. A script that converts a number from base 10 to base 16.(Number in base 10 stored in env VAR 'DECIMAL'; script to display number in base 16, followed by a new line) 
 Task 15. A script that encodes and decodes text using the rot13 encryption. (Assume ASCII)
 Task 16. A script that prints every other line from the input, starting with the first line 
-Task 17.  
+Task 17. A shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result. (WATER in base 'water'; STIR in base 'stir'; result in base 'bestchol')
